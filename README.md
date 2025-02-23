@@ -5,7 +5,6 @@ A Python script to interact with three major AI chat APIs: **ChatGPT (OpenAI), G
 ## Set up API keys
 Before running the script, set up your API keys using `export`.
 
-
 ⚠️ Important Note:
 Using these APIs incurs charges based on the number of requests and tokens used. Before running this script, please review the pricing details to avoid unexpected costs.
 
@@ -24,6 +23,8 @@ python gemini.py
 ```
 
 Titan:
+Before using Amazon Bedrock, you must activate the AI models you intend to use.
+
 ```sh
 python bedrock.py
 ```
