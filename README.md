@@ -23,7 +23,7 @@ python gemini.py
 ```
 
 Titan:
-Before using Amazon Bedrock, you must activate the AI models you intend to use.
+- Before using Amazon Bedrock, you must activate the AI models you intend to use.
 
 ```sh
 python bedrock.py
